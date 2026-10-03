@@ -1,0 +1,101 @@
+Customer_ID,Customer_Name,Industry,Region,Annual_Revenue,Customer_Tier,Previous_Orders,Average_Order_Value,Historical_Win_Rate,Payment_Reliability,Average_Payment_Days,Relationship_Years,Strategic_Account,Customer_Risk_Level
+CUST0001,IOCL Industries 1,Renewable Energy,Middle East,169.0,Bronze,9,0.688,0.4,74,50,4,0,Medium
+CUST0002,BPCL Infra 2,Manufacturing,SE Asia,754.9,Silver,3,0.836,0.5,79,44,1,0,Medium
+CUST0003,GAIL Infra 3,Oil & Gas,South India,1745.2,Gold,9,2.015,0.68,78,48,8,1,Low
+CUST0004,Vedanta Power 4,Petrochemicals,West India,234.9,Bronze,4,0.948,0.33,67,59,3,0,Medium
+CUST0005,GAIL Industries 5,Manufacturing,East India,2103.1,Gold,15,0.799,0.71,86,39,8,1,Low
+CUST0006,JSW Infra 6,Power Generation,South India,2436.1,Gold,3,1.035,0.67,81,40,3,1,Low
+CUST0007,NTPC Energy 7,Infrastructure,West India,7334.2,Platinum,8,0.976,0.71,95,29,7,1,Low
+CUST0008,Sembcorp Projects 8,Power Generation,Middle East,352.6,Silver,0,0.356,0.36,67,56,0,0,Medium
+CUST0009,Reliance Infra 9,Manufacturing,Middle East,569.6,Silver,3,1.035,0.41,78,44,2,0,Medium
+CUST0010,GAIL Industries 10,Infrastructure,North India,676.4,Silver,14,0.429,0.59,76,46,7,0,Low
+CUST0011,Adani Projects 11,Manufacturing,East India,402.4,Silver,0,0.076,0.49,71,35,0,0,Medium
+CUST0012,ONGC Industries 12,Manufacturing,Middle East,104.9,Bronze,13,0.555,0.43,67,44,7,0,Low
+CUST0013,BPCL Infra 13,Power Generation,North India,115.2,Bronze,0,0.886,0.4,51,64,0,0,Medium
+CUST0014,BPCL Energy 14,Power Generation,SE Asia,131.4,Bronze,0,0.979,0.35,59,82,0,0,Medium
+CUST0015,Petronas Infra 15,Manufacturing,South India,1360.7,Gold,9,0.317,0.58,86,29,4,0,Low
+CUST0016,BPCL Infra 16,Power Generation,SE Asia,133.4,Bronze,17,0.407,0.37,61,73,7,0,Low
+CUST0017,IOCL Infra 17,Oil & Gas,Middle East,386.3,Silver,3,0.28,0.36,74,37,3,0,Medium
+CUST0018,JSW Industries 18,Petrochemicals,West India,378.6,Silver,1,1.114,0.45,79,54,1,0,Medium
+CUST0019,Tata Refineries 19,Infrastructure,West India,363.5,Silver,7,0.318,0.43,84,28,3,0,Low
+CUST0020,ONGC Energy 20,Renewable Energy,Middle East,198.6,Bronze,1,0.335,0.31,64,38,1,0,Medium
+CUST0021,BPCL Industries 21,Renewable Energy,SE Asia,109.0,Bronze,0,0.407,0.56,62,61,0,0,Medium
+CUST0022,Vedanta Infra 22,Infrastructure,East India,1176.5,Gold,0,1.46,0.57,82,40,2,1,Medium
+CUST0023,BPCL Refineries 23,Renewable Energy,North India,2475.0,Gold,3,0.959,0.44,97,26,4,0,Low
+CUST0024,Reliance Industries 24,Manufacturing,East India,99.4,Bronze,11,0.356,0.42,44,73,4,0,Medium
+CUST0025,NTPC Energy 25,Infrastructure,SE Asia,439.5,Silver,0,0.839,0.46,81,35,0,0,Medium
+CUST0026,BPCL Projects 26,Power Generation,Middle East,176.6,Bronze,13,0.208,0.36,79,48,5,0,Low
+CUST0027,JSW Power 27,Infrastructure,West India,769.6,Silver,2,0.708,0.53,69,54,1,0,Medium
+CUST0028,NTPC Infra 28,Infrastructure,East India,233.9,Bronze,8,0.94,0.54,76,47,7,0,Low
+CUST0029,NTPC Refineries 29,Renewable Energy,SE Asia,227.3,Bronze,3,0.889,0.44,72,37,3,0,Medium
+CUST0030,JSW Energy 30,Renewable Energy,East India,176.3,Bronze,7,0.999,0.54,61,60,3,0,Medium
+CUST0031,IOCL Infra 31,Infrastructure,South India,481.2,Silver,10,0.214,0.42,76,49,4,0,Low
+CUST0032,ONGC Projects 32,Power Generation,North India,208.1,Bronze,0,0.324,0.34,71,29,2,0,Medium
+CUST0033,JSW Industries 33,Infrastructure,Middle East,257.0,Bronze,4,1.029,0.44,64,69,3,0,Medium
+CUST0034,Tata Energy 34,Manufacturing,North India,2177.8,Gold,19,1.732,0.63,76,48,10,1,Low
+CUST0035,Vedanta Infra 35,Power Generation,West India,1725.4,Gold,14,1.429,0.47,87,46,7,0,Low
+CUST0036,Sembcorp Refineries 36,Manufacturing,West India,116.7,Bronze,2,0.542,0.52,65,56,2,0,Medium
+CUST0037,JSW Power 37,Oil & Gas,South India,545.3,Silver,0,0.531,0.38,58,50,0,0,Medium
+CUST0038,Vedanta Power 38,Renewable Energy,West India,639.5,Silver,2,0.77,0.36,72,58,1,0,Medium
+CUST0039,JSW Energy 39,Infrastructure,South India,831.8,Silver,7,0.434,0.46,83,40,4,0,Low
+CUST0040,Petronas Industries 40,Petrochemicals,East India,308.8,Silver,0,0.741,0.5,63,70,0,0,Medium
+CUST0041,JSW Projects 41,Renewable Energy,SE Asia,269.2,Bronze,5,0.241,0.51,71,52,4,0,Medium
+CUST0042,JSW Power 42,Renewable Energy,North India,803.4,Silver,7,0.549,0.47,71,63,6,0,Low
+CUST0043,Tata Infra 43,Infrastructure,Middle East,980.4,Gold,4,1.593,0.47,71,40,2,0,Medium
+CUST0044,ONGC Refineries 44,Oil & Gas,SE Asia,6237.2,Platinum,17,2.192,0.67,94,46,7,1,Low
+CUST0045,Adani Refineries 45,Petrochemicals,North India,1856.5,Gold,5,0.807,0.67,83,30,3,1,Low
+CUST0046,JSW Projects 46,Oil & Gas,SE Asia,2040.8,Gold,8,1.604,0.45,100,15,2,0,Low
+CUST0047,ONGC Projects 47,Manufacturing,Middle East,2250.0,Gold,7,1.945,0.42,80,52,4,0,Low
+CUST0048,ONGC Infra 48,Petrochemicals,North India,3292.2,Platinum,7,1.284,0.67,100,15,3,1,Low
+CUST0049,JSW Power 49,Oil & Gas,South India,837.4,Silver,8,0.729,0.46,87,58,6,0,Low
+CUST0050,Reliance Industries 50,Manufacturing,South India,123.8,Bronze,11,0.47,0.43,61,77,4,0,Medium
+CUST0051,IOCL Projects 51,Power Generation,West India,6807.2,Platinum,19,0.848,0.53,89,30,9,1,Low
+CUST0052,GAIL Power 52,Renewable Energy,East India,654.4,Silver,3,0.951,0.53,94,30,3,0,Low
+CUST0053,BPCL Power 53,Oil & Gas,North India,211.4,Bronze,1,0.64,0.42,76,39,1,0,Medium
+CUST0054,IOCL Industries 54,Petrochemicals,East India,108.5,Bronze,1,0.109,0.51,57,60,1,0,Medium
+CUST0055,Adani Refineries 55,Power Generation,East India,4242.1,Platinum,11,0.103,0.42,91,36,7,0,Low
+CUST0056,IOCL Infra 56,Power Generation,North India,2305.0,Gold,5,1.16,0.54,87,40,3,1,Low
+CUST0057,NTPC Refineries 57,Infrastructure,SE Asia,8512.9,Platinum,7,1.409,0.7,79,18,6,1,Low
+CUST0058,Petronas Infra 58,Oil & Gas,South India,6714.7,Platinum,10,0.932,0.63,83,57,7,0,Low
+CUST0059,Petronas Industries 59,Petrochemicals,Middle East,198.1,Bronze,10,0.072,0.32,70,53,6,0,Low
+CUST0060,ONGC Industries 60,Renewable Energy,North India,743.1,Silver,6,1.191,0.45,66,57,6,0,Low
+CUST0061,NTPC Industries 61,Oil & Gas,West India,195.2,Bronze,5,1.012,0.45,54,71,3,0,Medium
+CUST0062,Sembcorp Projects 62,Petrochemicals,East India,1356.6,Gold,9,0.316,0.44,80,42,3,0,Medium
+CUST0063,IOCL Infra 63,Petrochemicals,SE Asia,389.6,Silver,0,0.59,0.35,71,63,0,0,Medium
+CUST0064,IOCL Infra 64,Petrochemicals,North India,610.2,Silver,13,1.045,0.47,87,21,6,0,Low
+CUST0065,Vedanta Refineries 65,Manufacturing,East India,941.7,Gold,16,1.5,0.53,84,37,10,0,Low
+CUST0066,Reliance Power 66,Oil & Gas,SE Asia,861.2,Silver,1,0.837,0.48,77,43,1,0,Medium
+CUST0067,Adani Industries 67,Oil & Gas,East India,2256.3,Gold,8,0.697,0.57,74,41,6,1,Low
+CUST0068,ONGC Projects 68,Infrastructure,SE Asia,207.5,Bronze,0,0.93,0.38,49,70,0,0,Medium
+CUST0069,JSW Industries 69,Infrastructure,SE Asia,266.8,Bronze,0,0.686,0.51,56,66,0,0,Medium
+CUST0070,IOCL Power 70,Renewable Energy,East India,625.4,Silver,1,0.39,0.4,83,30,1,0,Medium
+CUST0071,GAIL Energy 71,Petrochemicals,East India,229.0,Bronze,17,1.023,0.47,63,44,6,0,Low
+CUST0072,NTPC Projects 72,Oil & Gas,East India,447.2,Silver,12,0.195,0.49,78,39,5,0,Low
+CUST0073,BPCL Power 73,Petrochemicals,West India,119.4,Bronze,3,0.585,0.48,66,62,4,0,Medium
+CUST0074,Vedanta Industries 74,Renewable Energy,East India,2373.0,Gold,0,0.885,0.48,71,53,0,0,Medium
+CUST0075,Sembcorp Industries 75,Manufacturing,North India,202.1,Bronze,5,0.577,0.36,54,63,2,0,Medium
+CUST0076,ONGC Projects 76,Manufacturing,West India,535.8,Silver,10,0.912,0.51,80,25,4,0,Low
+CUST0077,Petronas Projects 77,Power Generation,East India,481.5,Silver,9,0.635,0.53,74,49,6,0,Low
+CUST0078,ONGC Industries 78,Renewable Energy,South India,505.4,Silver,1,0.812,0.43,77,49,1,0,Medium
+CUST0079,BPCL Refineries 79,Petrochemicals,Middle East,2449.1,Gold,3,0.566,0.51,89,34,3,0,Low
+CUST0080,NTPC Projects 80,Renewable Energy,SE Asia,199.8,Bronze,5,0.561,0.51,60,59,3,0,Medium
+CUST0081,Reliance Infra 81,Renewable Energy,Middle East,1781.7,Gold,9,2.35,0.4,80,45,6,0,Low
+CUST0082,JSW Refineries 82,Manufacturing,East India,176.5,Bronze,0,0.346,0.48,76,45,0,0,Medium
+CUST0083,ONGC Energy 83,Renewable Energy,North India,2449.0,Gold,4,2.397,0.46,83,25,4,0,Low
+CUST0084,NTPC Refineries 84,Manufacturing,North India,671.8,Silver,1,1.068,0.45,73,51,1,0,Medium
+CUST0085,NTPC Power 85,Power Generation,North India,121.7,Bronze,7,0.58,0.55,68,61,2,0,Medium
+CUST0086,NTPC Industries 86,Oil & Gas,East India,512.0,Silver,10,0.111,0.38,72,51,4,0,Medium
+CUST0087,Reliance Industries 87,Manufacturing,East India,96.3,Bronze,2,0.992,0.38,48,63,2,0,Medium
+CUST0088,Adani Energy 88,Oil & Gas,Middle East,454.5,Silver,5,0.253,0.5,75,51,3,0,Medium
+CUST0089,Petronas Refineries 89,Manufacturing,Middle East,894.2,Silver,7,0.701,0.34,72,45,3,0,Medium
+CUST0090,Adani Refineries 90,Oil & Gas,South India,315.9,Silver,4,0.361,0.44,62,50,2,0,Medium
+CUST0091,Adani Power 91,Infrastructure,East India,706.0,Silver,1,1.074,0.5,72,51,4,0,Medium
+CUST0092,Adani Power 92,Petrochemicals,South India,100.7,Bronze,13,0.288,0.36,57,77,7,0,Low
+CUST0093,Reliance Industries 93,Manufacturing,West India,1476.7,Gold,4,0.347,0.26,83,29,4,0,Low
+CUST0094,BPCL Energy 94,Infrastructure,SE Asia,2257.7,Gold,7,1.954,0.54,90,24,9,0,Low
+CUST0095,GAIL Energy 95,Power Generation,South India,596.2,Silver,0,0.197,0.39,75,48,0,0,Medium
+CUST0096,Sembcorp Energy 96,Power Generation,East India,1960.8,Gold,17,1.0,0.36,85,30,10,0,Low
+CUST0097,Sembcorp Refineries 97,Infrastructure,Middle East,577.1,Silver,4,0.297,0.46,71,58,3,0,Medium
+CUST0098,BPCL Industries 98,Petrochemicals,North India,2569.5,Gold,14,1.432,0.55,96,20,7,0,Low
+CUST0099,IOCL Refineries 99,Oil & Gas,South India,637.6,Silver,4,0.479,0.46,77,29,2,0,Medium
+CUST0100,Vedanta Power 100,Power Generation,West India,1793.9,Gold,15,1.965,0.32,77,43,6,0,Low

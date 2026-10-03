@@ -1,0 +1,14 @@
+Field,Value
+Customer,Vedanta Power 4
+Product,Turbomachinery Rotor
+Quantity,3
+Quoted Price,"$1,814,113"
+Discount,12.0%
+Total Contract Value,"$1,814,113"
+Expected Margin,12.4%
+Payment Terms,60 days
+Expected Delivery,55 days
+Risk Level,Medium
+Win Probability,36%
+Commercial Status,RED
+Commercial Recommendation,Proposal requires commercial escalation because margin (12.4%) falls below the minimum acceptable threshold (13.3%).

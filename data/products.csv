@@ -1,0 +1,31 @@
+Product_ID,Product_Name,Product_Category,Base_Cost,Standard_Price,Installation_Cost,Warranty_Cost,Maintenance_Cost,Logistics_Cost,Minimum_Margin,Maximum_Discount
+PROD001,Industrial Pump,Pumps,118214.43,191665.7,7063.14,4113.79,3156.89,3204.08,0.168,0.234
+PROD002,Gas Compression Unit,Gas Compression,277978.71,415915.03,25352.6,5826.1,8566.83,13293.09,0.161,0.166
+PROD003,Turbomachinery Rotor,Turbomachinery,450748.83,687164.03,33044.41,9737.89,12832.41,23139.22,0.133,0.164
+PROD004,Turbomachinery Casing,Turbomachinery,234813.44,354973.32,8635.67,13594.01,6152.06,16093.68,0.178,0.158
+PROD005,Industrial Control Valve,Valves,27808.43,48628.0,2068.85,1033.39,757.59,616.07,0.152,0.249
+PROD006,Safety Relief Valve,Valves,38554.76,54063.98,3061.47,1236.47,1778.13,875.46,0.176,0.234
+PROD007,Annual Maintenance Contract,Maintenance Services,14110.23,19878.33,0.0,753.32,229.01,735.06,0.175,0.207
+PROD008,Field Installation Package,Installation Services,28656.13,44473.11,0.0,645.47,1396.99,1107.25,0.131,0.179
+PROD009,Spare Parts Kit - Pump,Spare Parts,14501.22,20599.16,1315.42,700.61,626.46,1139.13,0.171,0.244
+PROD010,Spare Parts Kit - Compressor,Spare Parts,2777.09,4749.47,189.39,115.92,127.63,217.47,0.162,0.198
+PROD011,Industrial Pump Model 2,Pumps,65640.39,100318.18,3630.7,2340.75,892.06,1617.78,0.167,0.195
+PROD012,Gas Compression Unit Model 2,Gas Compression,568808.02,923505.94,18464.83,14960.18,10370.96,44676.55,0.133,0.202
+PROD013,Turbomachinery Rotor Model 2,Turbomachinery,571279.62,1031419.21,26590.34,12547.99,9222.78,13596.29,0.132,0.207
+PROD014,Turbomachinery Casing Model 2,Turbomachinery,560601.96,891722.96,41383.23,15738.73,23558.37,31992.06,0.172,0.245
+PROD015,Industrial Control Valve Model 2,Valves,17176.53,24377.65,786.94,644.35,821.51,733.41,0.166,0.204
+PROD016,Safety Relief Valve Model 2,Valves,11398.31,17128.08,863.12,534.74,312.2,384.34,0.163,0.167
+PROD017,Annual Maintenance Contract Model 2,Maintenance Services,56706.82,82415.95,0.0,1377.55,1695.87,2901.86,0.15,0.194
+PROD018,Field Installation Package Model 2,Installation Services,59730.37,93719.35,0.0,2336.52,1604.99,1434.1,0.156,0.173
+PROD019,Spare Parts Kit - Pump Model 2,Spare Parts,9926.53,13954.33,979.72,384.75,455.33,481.77,0.124,0.232
+PROD020,Spare Parts Kit - Compressor Model 2,Spare Parts,10074.57,17159.85,604.19,458.57,445.79,582.95,0.141,0.216
+PROD021,Industrial Pump Model 3,Pumps,87185.42,156611.08,4879.23,3226.15,3704.07,4389.41,0.164,0.196
+PROD022,Gas Compression Unit Model 3,Gas Compression,246972.81,416258.93,9676.61,6901.25,8662.08,16012.78,0.174,0.177
+PROD023,Turbomachinery Rotor Model 3,Turbomachinery,199825.92,358450.1,8154.82,5576.48,4326.87,10343.69,0.173,0.226
+PROD024,Turbomachinery Casing Model 3,Turbomachinery,468670.9,679017.38,25794.61,18342.0,7450.48,17062.33,0.138,0.163
+PROD025,Industrial Control Valve Model 3,Valves,24258.39,40420.87,846.5,952.02,1001.59,1573.87,0.169,0.195
+PROD026,Safety Relief Valve Model 3,Valves,33719.5,49655.27,1863.23,912.25,967.73,1467.59,0.134,0.225
+PROD027,Annual Maintenance Contract Model 3,Maintenance Services,24320.03,36103.31,0.0,613.73,670.09,928.49,0.142,0.174
+PROD028,Field Installation Package Model 3,Installation Services,47684.09,84862.32,0.0,1903.42,1703.27,3434.7,0.18,0.211
+PROD029,Spare Parts Kit - Pump Model 3,Spare Parts,13456.91,23794.94,1149.24,517.25,178.25,281.9,0.149,0.199
+PROD030,Spare Parts Kit - Compressor Model 3,Spare Parts,6703.07,10752.24,460.18,358.38,96.16,224.62,0.168,0.235
